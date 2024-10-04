@@ -90,7 +90,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'inventory',
         'USER': 'postgres',
-        'PASSWORD': '*******git*',
+        'PASSWORD': '*********',
         'HOST': 'localhost',
         'PORT': '5432',
     }
